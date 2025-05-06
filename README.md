@@ -20,7 +20,7 @@ TG机器人 TRX能量商城会员兑换 钱包归集
 自动化USDT兑换TRX的Telegram机器人 最新完整功能
 👉TG联系我a 
 
-https://t.me/kexuejia3
+https://t.me/tg_set_bot
 
 
 👉TRX兑换 能量租赁 TG体验机器人
@@ -45,7 +45,7 @@ https://t.me/kexuejia3
 
 👉TG会员充值机器人： @tg_vip_dai_bot
 
-👉联系客服: kexuejia3
+👉联系客服: @xiaoemo999
 
 
 自动开通Telegram Premium,TG飞机电报会员,TG飞机会员充值机器人,防撤回 TG,TG会员Telegram Premium自助/自动/充值 机器人部署,自动开通Telegram Premium/TG飞机电报会员
