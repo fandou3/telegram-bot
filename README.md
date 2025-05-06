@@ -1,3 +1,20 @@
+1. 创建一个.env
+2. 内容如下
+
+   
+# fragment.com 接口配置
+ResHash= "" # fragment.com 生成的hash值
+ResCookie= "" # fragment.com 生成的cookie值
+
+# 开通会员 参数配置
+OpenDuration= 3  # 开通日期 3 6 12 单位月
+OpenUserName= "xiaoemo999" # 开通会员的用户名
+# 钱包配置 付款助记词
+WalletMnemonic= "" # 钱包助记词 用空格分隔
+
+直接运行即可 根据后面注释。 完整代码 可直接运行
+
+
 TRX兑换 能量租赁 tg会员 钱包靓号商城 钱包监控 php + java 双版本
 TG机器人 TRX能量商城会员兑换 钱包归集
 自动化USDT兑换TRX的Telegram机器人 最新完整功能
